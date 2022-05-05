@@ -31,7 +31,7 @@ namespace M05_UF3_P2_Template
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
+                app.UseDeveloperExceptionPage(); //5
             }
             else
             {
