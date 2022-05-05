@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace M05_UF3_P2_Template
+namespace M05_UF3_P2_PauTerrazaCervera_ArnauFerreresSubirats
 {
     public class Startup
     {
